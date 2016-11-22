@@ -215,3 +215,7 @@ td, th {
     -webkit-filter: blur(5px);
     filter:blur(5px);
 }
+
+#info p {
+	margin-top: 2px;
+}
