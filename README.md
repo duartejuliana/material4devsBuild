@@ -1,5 +1,5 @@
-Material4devs é um aplicativo que lista os principais conceitos do Material Design - guideline oficial do Google para desenvolvimento de aplicativos Android.</p>
-        
+Material4devs é um aplicativo que lista os principais conceitos do Material Design - guideline oficial do Google para desenvolvimento de aplicativos Android.
+
 Desenvolvedores
 Alan Sergio Barreto
 RA 1422262
